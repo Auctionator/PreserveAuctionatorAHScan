@@ -1,0 +1,8 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+Auctionator.Config.Options.<Frame name="PreserveAuctionatorAHScanDataFrame" parent="UIParent" hidden="true" mixin="PreserveAuctionatorAHScanDataFrameMixin">
+    <Scripts>
+      <OnLoad method="OnLoad"/>
+      <OnEvent method="OnEvent"/>
+    </Scripts>
+  </Frame>
+</Ui>

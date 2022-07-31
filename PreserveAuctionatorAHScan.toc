@@ -1,0 +1,9 @@
+## Interface: 90205
+## Title: Preserve Auctionator AH Scan
+## Version: @project-version@
+## Author: plusmouse
+## RequiredDeps: Auctionator
+## SavedVariables: PRESERVE_AUCTIONATOR_AH_SCAN_LAST_SCAN
+
+Source\Frame.lua
+Source\Frame.xml
