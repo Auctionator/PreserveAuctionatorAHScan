@@ -3,7 +3,7 @@
 ## Version: @project-version@
 ## Author: plusmouse
 ## RequiredDeps: Auctionator
-## SavedVariables: PRESERVE_AUCTIONATOR_AH_SCAN_LAST_SCAN
+## SavedVariables: PRESERVE_AUCTIONATOR_AH_SCAN_LAST_SCAN, PRESERVE_AUCTIONATOR_AH_SCAN_LAST_SUMMARY
 
 Source\Frame.lua
 Source\Frame.xml
